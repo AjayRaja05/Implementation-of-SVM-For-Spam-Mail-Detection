@@ -64,16 +64,11 @@ print(cl)
 ```
 
 ## Output:
-<img width="656" height="388" alt="image" src="https://github.com/user-attachments/assets/a76e6297-5fa6-4c7b-a13c-2621ba9f40fc" />
-
-<img width="592" height="31" alt="image" src="https://github.com/user-attachments/assets/6365c6f8-8a09-4e89-abdd-e335cc003068" />
-
-<img width="1183" height="142" alt="image" src="https://github.com/user-attachments/assets/1406fc0f-889a-4f51-a4f6-2323085b97bd" />
-
-<img width="230" height="36" alt="image" src="https://github.com/user-attachments/assets/80f8910f-2a7e-49e8-8b00-e90df333c305" />
-
-<img width="123" height="55" alt="image" src="https://github.com/user-attachments/assets/3cedf24c-aaf5-455e-be3d-1fd09d48408d" />
-
+<img width="656" height="388" alt="image" src="https://github.com/user-attachments/assets/a76e6297-5fa6-4c7b-a13c-2621ba9f40fc" /><br><br>
+<img width="592" height="31" alt="image" src="https://github.com/user-attachments/assets/6365c6f8-8a09-4e89-abdd-e335cc003068" /><br><br>
+<img width="1183" height="142" alt="image" src="https://github.com/user-attachments/assets/1406fc0f-889a-4f51-a4f6-2323085b97bd" /><br><br>
+<img width="230" height="36" alt="image" src="https://github.com/user-attachments/assets/80f8910f-2a7e-49e8-8b00-e90df333c305" /><br><br>
+<img width="123" height="55" alt="image" src="https://github.com/user-attachments/assets/3cedf24c-aaf5-455e-be3d-1fd09d48408d" /><br><br>
 <img width="497" height="149" alt="image" src="https://github.com/user-attachments/assets/6b7fadc6-5453-4efd-bce1-05393024cc9a" />
 
 
